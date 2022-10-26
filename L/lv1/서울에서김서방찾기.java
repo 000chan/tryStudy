@@ -1,6 +1,8 @@
+package lv1;
+
 import java.util.Arrays;
 
-class testNote {
+class 서울에서김서방찾기 {
     public String solution(String[] seoul) {
         System.out.println(Arrays.toString(seoul));
         String answer = "";
