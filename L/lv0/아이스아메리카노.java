@@ -1,7 +1,6 @@
 package lv0;
 
 public class 아이스아메리카노 {
-
 //    class Solution {
 //        public int[] solution(int money) {
 //            int coffee = 5500;
