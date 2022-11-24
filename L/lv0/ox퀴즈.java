@@ -14,9 +14,7 @@ public class ox퀴즈 {
 //                }else{
 //                    System.out.println(answer[i]);
 //                }
-//
 //            }
-//
 //            return answer;
 //        }
 //    }
