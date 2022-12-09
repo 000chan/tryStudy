@@ -1,12 +1,23 @@
 function solution(array, commands) {
-    // var sibal1 = array.slice(commands[0][0]-1, commands[0][1])
-    // var sibal2 = array.slice(commands[1][0]-1, commands[1][1])
-    // var sibal3 = array.slice(commands[2][0]-1, commands[2][1])
-    //
-    // console.log(sibal1)
-    // console.log(sibal2[commands[1][3]])
-    // console.log(sibal3[commands[2][3]])
-    //
-    // var answer = [];
-    // return answer;
+    var answer = [];
+    var intNumber1 = 0;
+    var intNumber2 = 0;
+    var intNumber3 = 0;
+
+    for(var i=0; i<commands.length; i++){
+        intNumber1 = commands[i][0];
+        intNumber2 = commands[i][1];
+        intNumber3 = commands[i][2];
+
+        for(var sibal in array){
+            if(sibal == (intNumber1-1)){
+                console.log("sibal This here? : ", sibal);
+                console.log("what is :", (intNumber2-1));
+                for(var j=sibal; j<(intNumber2); j++){
+                    answer[j] += array[j];
+                }
+            }
+        }
+    }
+    return answer;
 }
