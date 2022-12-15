@@ -5,7 +5,7 @@ public class 자연수뒤집어배열로만들기 {
 //
 //    class Solution {
 //        public int[] solution(long n) {
-//            long tmp1 = n;
+//            long tmp1기 = n;
 //            int tmp2 = 0;
 //
 //            // --------------------------1번째 시도---------------------------
