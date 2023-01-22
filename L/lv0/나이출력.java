@@ -6,7 +6,7 @@ public class 나이출력 {
 //    class Solution {
 //        public int solution(int age) {
 //            LocalDate now = LocalDate.now();
-//            return now.getYear() - (age-1);
+//            return now.getYear() - (age);
 //        }
 //    }
 }
