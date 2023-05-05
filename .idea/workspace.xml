@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ef532aa-54a6-49d0-8a79-a09232939d43" name="Changes" comment="[PGS] 문자열을 정수로 변환하기 / lv0 / 0분 /" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="yurim_test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1683184105" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="yurim_test" />
+                    <option name="lastUsedInstant" value="1683184092" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2If9Xgy7Xe8ugqXl8JCN8TEknpM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lv0" />
+      <recent name="lv1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="두배열의원소교체" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lv1.두배열의원소교체" />
+      <module name="tryStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.두배열의원소교체" />
+        <item itemvalue="Application.두배열의원소교체" />
+        <item itemvalue="Application.두배열의원소교체" />
+        <item itemvalue="Application.두배열의원소교체" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ef532aa-54a6-49d0-8a79-a09232939d43" name="Changes" comment="" />
+      <created>1670561812191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670561812191</updated>
+      <workItem from="1670561814986" duration="5667000" />
+      <workItem from="1670570924148" duration="1038000" />
+      <workItem from="1670637709278" duration="8111000" />
+      <workItem from="1670751471465" duration="5609000" />
+      <workItem from="1670927826199" duration="9630000" />
+      <workItem from="1671289048928" duration="17000" />
+      <workItem from="1671289078341" duration="10000" />
+      <workItem from="1671289099882" duration="10000" />
+      <workItem from="1671289168352" duration="41000" />
+      <workItem from="1671289220248" duration="204000" />
+      <workItem from="1671322915606" duration="1568000" />
+      <workItem from="1671336333842" duration="18000" />
+      <workItem from="1671336404287" duration="151000" />
+      <workItem from="1671445604750" duration="1691000" />
+      <workItem from="1671531038806" duration="128000" />
+      <workItem from="1671534226306" duration="3354000" />
+      <workItem from="1671624226683" duration="670000" />
+      <workItem from="1671714911630" duration="69000" />
+      <workItem from="1671805091221" duration="2763000" />
+      <workItem from="1672050878360" duration="41000" />
+      <workItem from="1672051643060" duration="2144000" />
+      <workItem from="1672276795380" duration="166000" />
+      <workItem from="1672357829276" duration="126000" />
+      <workItem from="1672461152261" duration="649000" />
+      <workItem from="1672481622777" duration="1442000" />
+      <workItem from="1672547247609" duration="1222000" />
+      <workItem from="1672559122074" duration="610000" />
+      <workItem from="1672745753956" duration="246000" />
+      <workItem from="1672830261432" duration="130000" />
+      <workItem from="1672916281822" duration="2043000" />
+      <workItem from="1673142217216" duration="961000" />
+      <workItem from="1673434898870" duration="795000" />
+      <workItem from="1673521510138" duration="124000" />
+      <workItem from="1673597448111" duration="907000" />
+      <workItem from="1673665669635" duration="222000" />
+      <workItem from="1673742478445" duration="1390000" />
+      <workItem from="1674038834912" duration="933000" />
+      <workItem from="1674089850273" duration="790000" />
+      <workItem from="1674183747193" duration="1058000" />
+      <workItem from="1674187063052" duration="164000" />
+      <workItem from="1674381535740" duration="2983000" />
+      <workItem from="1676798641657" duration="1884000" />
+      <workItem from="1678875874960" duration="1196000" />
+      <workItem from="1681610727879" duration="386000" />
+      <workItem from="1682984854027" duration="1223000" />
+      <workItem from="1683182590804" duration="2606000" />
+      <workItem from="1683281447708" duration="239000" />
+      <workItem from="1683281693695" duration="54000" />
+    </task>
+    <task id="LOCAL-00005" summary="[YouTube] 두배열의원소교체 / Lv.1 / 15분">
+      <created>1670677425612</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670677425612</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[PGS] 문자열 내림차순으로 배치하기 / Lv.1 / 10분">
+      <created>1670725919312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670725919312</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[PGS] 짝수와홀수 / Lv.1 / 8분">
+      <created>1670842802335</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670842802335</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[PGS] 제일작은수제거하기 / Lv.1 / 30분">
+      <created>1670927920284</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670927920284</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[PGS] 두수의합 / Lv.0 / 1분">
+      <created>1671016653855</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671016653855</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[PGS] 자연수뒤집어배열로만들기 / Lv.1 / 60분">
+      <created>1671101266681</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671101266681</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[PGS] 자연수뒤집어배열로만들기 / Lv.1 / 60분">
+      <created>1671103507892</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671103507892</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[PGS] 최댓값과 최솟값 / Lv.2 / 60분">
+      <created>1671187811659</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671187811659</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[PGS] 배열의평균값 / Lv.0 / 2분">
+      <created>1671241112697</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671241112697</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[PGS] 숫자비교하기 / Lv.0 / 1분">
+      <created>1671289414377</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671289414377</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[PGS] JasenCase문자열만들기 / Lv.2 / 93분">
+      <created>1671336539125</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671336539125</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[PGS] 핸드폰번호가리기 / Lv.1 / 30분">
+      <created>1671446140676</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1671446140676</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[PGS] 양꼬치 / Lv.0 / 10분">
+      <created>1671531141544</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1671531141544</updated>
+    </task>
+    <task id="LOCAL-00018" summary="[PGS] 나머지가 1이 되는 수 찾기 / lv1 / 10분 /">
+      <created>1671619903798</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1671619903798</updated>
+    </task>
+    <task id="LOCAL-00019" summary="[PGS] 나머지 구하기 / lv0 / 1분 /">
+      <created>1671714955371</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1671714955371</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[PGS] 몫구하기 / lv0 / 1분 /">
+      <created>1671805123328</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1671805123328</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[PGS] 아이스아메리카노 / lv0 / 15분 /">
+      <created>1671843515772</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1671843515772</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[PGS] 부족한금액계산하기 / lv1 / 15분 /">
+      <created>1671933241685</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1671933241685</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[PGS] 중복된 숫자 계수 / lv0 / 2분 /">
+      <created>1672207370889</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1672207370889</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[PGS] 짝수는 싫어요 / lv0 / 3분 /">
+      <created>1672276927457</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1672276927457</updated>
+    </task>
+    <task id="LOCAL-00025" summary="[PGS] 약수의합 / lv1 / 2분 /">
+      <created>1672357886414</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1672357886414</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[PGS] 두수의나눗셈 / lv0 / 1분 /">
+      <created>1672461201115</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1672461201115</updated>
+    </task>
+    <task id="LOCAL-00027" summary="[PGS] 문자 반복 출력하기 / lv0 / 12분 /">
+      <created>1672536634731</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1672536634731</updated>
+    </task>
+    <task id="LOCAL-00028" summary="[PGS] 짝수의합 / lv0 / 5분 /">
+      <created>1672745806589</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1672745806590</updated>
+    </task>
+    <task id="LOCAL-00029" summary="[PGS] 배열두배만들기 / lv0 / 2분 /">
+      <created>1672830380169</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1672830380169</updated>
+    </task>
+    <task id="LOCAL-00030" summary="[PGS] 자릿수더하기 / lv0 / 10분 /">
+      <created>1672917813250</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1672917813250</updated>
+    </task>
+    <task id="LOCAL-00031" summary="[PGS] 올바른 괄호 / lv2 / 60분 /">
+      <created>1673054123722</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1673054123722</updated>
+    </task>
+    <task id="LOCAL-00032" summary="[PGS] 피자나눠먹기1 / lv0 / 1분 /">
+      <created>1673142271324</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1673142271324</updated>
+    </task>
+    <task id="LOCAL-00033" summary="[PGS] 문자열뒤집기 / lv0 / 2분 /">
+      <created>1673345548241</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1673345548241</updated>
+    </task>
+    <task id="LOCAL-00034" summary="[PGS] 최솟값만들기 / lv2 / 90분 /">
+      <created>1673438387681</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1673438387681</updated>
+    </task>
+    <task id="LOCAL-00035" summary="[PGS] 배열원소의길이 / lv0 / 1분 /">
+      <created>1673521587428</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1673521587428</updated>
+    </task>
+    <task id="LOCAL-00036" summary="[PGS] 문자열안에문자열 / lv0 / 1분 /">
+      <created>1673597663854</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1673597663854</updated>
+    </task>
+    <task id="LOCAL-00037" summary="[PGS] 배열자르기 / lv0 / 3분 /">
+      <created>1673665822608</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1673665822608</updated>
+    </task>
+    <task id="LOCAL-00038" summary="[PGS] 중앙값구하기 / lv0 / 10분 /">
+      <created>1673745059969</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1673745059969</updated>
+    </task>
+    <task id="LOCAL-00039" summary="[PGS] 대문자와 소문자 / lv0 / 25분 /">
+      <created>1673871976660</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1673871976660</updated>
+    </task>
+    <task id="LOCAL-00040" summary="[PGS] 문자열 정렬하기(1) / lv0 / 8분 /">
+      <created>1674039569218</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1674039569218</updated>
+    </task>
+    <task id="LOCAL-00041" summary="[PGS] 배열의 유사도 / lv0 / 20분 /">
+      <created>1674091221266</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1674091221266</updated>
+    </task>
+    <task id="LOCAL-00042" summary="[PGS] 암호 해독 / lv0 / 10분 /">
+      <created>1674187110918</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1674187110918</updated>
+    </task>
+    <task id="LOCAL-00043" summary="[PGS] 나이 출력 / lv0 / 2분 /">
+      <created>1674381778383</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1674381778383</updated>
+    </task>
+    <task id="LOCAL-00044" summary="[PGS] 양꼬치 / lv0 / 2분 /">
+      <created>1674440862340</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1674440862340</updated>
+    </task>
+    <task id="LOCAL-00045" summary="[PGS] 숨어있는 숫자의 덧셈(1) / lv0 / 10분 /">
+      <created>1674554760900</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1674554760901</updated>
+    </task>
+    <task id="LOCAL-00046" summary="[PGS] 점의 위치 구하기 / lv0 / 5분 /">
+      <created>1675078084356</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1675078084356</updated>
+    </task>
+    <task id="LOCAL-00047" summary="[PGS] 정수 내림차순으로 배치하기 / lv1 / 20분 /">
+      <created>1676550444773</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1676550444774</updated>
+    </task>
+    <task id="LOCAL-00048" summary="[PGS] 삼각형의 완성조건(1) / lv0 / 8분 /">
+      <created>1676798700004</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1676798700004</updated>
+    </task>
+    <task id="LOCAL-00049" summary="[PGS] 모음제거 / lv0 / 10분 /">
+      <created>1676985470317</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1676985470317</updated>
+    </task>
+    <task id="LOCAL-00050" summary="[PGS] 피자나눠먹기(3) / lv0 / 2분 /">
+      <created>1681610775620</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1681610775623</updated>
+    </task>
+    <task id="LOCAL-00051" summary="[PGS] 문자열로 반환 / lv0 / 0분 /">
+      <created>1682985046667</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1682985046667</updated>
+    </task>
+    <task id="LOCAL-00052" summary="[PGS] 문자열의 앞의 n글자 / lv0 / 0분 /">
+      <created>1683095308963</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1683095308964</updated>
+    </task>
+    <task id="LOCAL-00053" summary="[PGS] 문자열을 정수로 변환하기 / lv0 / 0분 /">
+      <created>1683281654037</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1683281654039</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/yurim_test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="103" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="93" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="80" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[PGS] 배열두배만들기 / lv0 / 2분 /" />
+    <MESSAGE value="[PGS] 자릿수더하기 / lv0 / 10분 /" />
+    <MESSAGE value="[PGS] 올바른 괄호 / lv2 / 60분 /" />
+    <MESSAGE value="[PGS] 피자나눠먹기1 / lv0 / 1분 /" />
+    <MESSAGE value="[PGS] 문자열뒤집기 / lv0 / 2분 /" />
+    <MESSAGE value="[PGS] 최솟값만들기 / lv2 / 90분 /" />
+    <MESSAGE value="[PGS] 배열원소의길이 / lv0 / 1분 /" />
+    <MESSAGE value="[PGS] 문자열안에문자열 / lv0 / 1분 /" />
+    <MESSAGE value="[PGS] 배열자르기 / lv0 / 3분 /" />
+    <MESSAGE value="[PGS] 중앙값구하기 / lv0 / 10분 /" />
+    <MESSAGE value="[PGS] 대문자와 소문자 / lv0 / 25분 /" />
+    <MESSAGE value="[PGS] 문자열 정렬하기(1) / lv0 / 8분 /" />
+    <MESSAGE value="[PGS] 배열의 유사도 / lv0 / 20분 /" />
+    <MESSAGE value="[PGS] 암호 해독 / lv0 / 10분 /" />
+    <MESSAGE value="[PGS] 나이 출력 / lv0 / 2분 /" />
+    <MESSAGE value="[PGS] 양꼬치 / lv0 / 2분 /" />
+    <MESSAGE value="[PGS] 숨어있는 숫자의 덧셈(1) / lv0 / 10분 /" />
+    <MESSAGE value="[PGS] 점의 위치 구하기 / lv0 / 5분 /" />
+    <MESSAGE value="[PGS] 정수 내림차순으로 배치하기 / lv1 / 20분 /" />
+    <MESSAGE value="[PGS] 삼각형의 완성조건(1) / lv0 / 8분 /" />
+    <MESSAGE value="[PGS] 모음제거 / lv0 / 10분 /" />
+    <MESSAGE value="[PGS] 피자나눠먹기(3) / lv0 / 2분 /" />
+    <MESSAGE value="[PGS] 문자열로 반환 / lv0 / 0분 /" />
+    <MESSAGE value="[PGS] 문자열의 앞의 n글자 / lv0 / 0분 /" />
+    <MESSAGE value="[PGS] 문자열을 정수로 변환하기 / lv0 / 0분 /" />
+    <option name="LAST_COMMIT_MESSAGE" value="[PGS] 문자열을 정수로 변환하기 / lv0 / 0분 /" />
+  </component>
+</project>
